@@ -1,51 +1,39 @@
-# EXCEL-SALES-PERFORMANCE-ANALYTICS
+# AtliQ Hardware Sales Analytics (Excel Project)
+This repository presents an Excel-based analytics project analyzing the sales performance of AtliQ Hardware, a company specializing in computer hardware products.
 
-**Overview**
+The project simulates a real‑world business case where AtliQ Hardware’s management seeks actionable insights into their sales operations using Excel dashboards and reports.
 
-This project encompasses a comprehensive set of sales analytics reports for AtliQ Hardware, leveraging the powerful features of MS Excel. The reports provide deep insights into various aspects of sales performance, tailored to meet the specific needs of AtliQ Technologies.
+## Project Objective
+The objective of this project is to help AtliQ Hardware management:
 
-**Reports Created**
+1. Gain visibility into sales performance across regions, customers, and product categories
+2. Identify underperforming areas and opportunities for growth
+3. Provide executive-level KPIs for top management decision-making
+4. Enable interactive exploration of customer and product sales data using Excel features
+5. Build a scalable Excel reporting framework for future analytics initiatives
 
-🔹Customer Performance Report: Analyzes individual customer performance.
+## Tech Stack
 
-🔹Market Performance vs Target: Compares market performance against set targets.
+1. Microsoft Excel – Dashboard creation, pivot tables, charts, slicers, conditional formatting
+2. Formulas & Functions – SUMIFS, VLOOKUP/XLOOKUP, INDEX-MATCH, IF statements, etc.
+3. Data Modeling – Structured tables, relationships, calculated fields
 
-🔹Top 10 Products: Identifies the top 10 best-selling products.
+## Learnings
 
-🔹Division Level Report: Offers insights at the division level.
+1. Building a scalable Excel reporting framework integrating multiple datasets
+2. Designing executive-friendly dashboards with clear KPIs using pivot tables and charts
+3. Applying advanced Excel formulas (SUMIFS, XLOOKUP, INDEX-MATCH) for dynamic calculations
+4. Using slicers and conditional formatting to enable interactive exploration
+5. Understanding sales analytics (customer demand, product performance, regional trends)
+6. Applying Excel dashboard design principles such as consistent color palettes, intuitive layouts, minimal clutter, and clear storytelling to make dashboards more engaging and decision‑friendly
 
-🔹Top and Bottom 5 Products: Highlights the top and bottom 5 products.
+## Project Outcome
+The AtliQ Hardware Sales Analytics Excel dashboard revealed key insights into sales performance:
 
-🔹Top 5 Countries in Fiscal Year 2021: Lists the top 5 countries by sales in FY 2021.
+1. Overall Sales Trends: Identified revenue growth patterns and highlighted months with significant dips due to demand fluctuations.
+2. Customer Analysis: Showed that a small percentage of customers contribute disproportionately to revenue, highlighting the importance of retention strategies.
+3. Product Analysis: Revealed top-performing categories and SKUs, while also identifying underperforming products that require marketing or inventory adjustments.
+4. Regional Insights: Highlighted geographic disparities in sales, pointing to regions with untapped potential or distribution challenges.
 
-🔹P&L (Profit and Loss) by Fiscal Year: Detailed profit and loss analysis by fiscal year.
 
-🔹P&L by Fiscal Months: Monthly profit and loss breakdown.
-
-🔹GM% (Gross Margin %) by Quarters for Sub-Zone: Gross margin percentage by quarters for each sub-zone.
-
-🔹P&L by Market: Market-specific profit and loss analysis.
-
-🔹Customer Discount Approval Sheet: Facilitates customer discount approvals.
-
-# **Tools and Techniques**
-
-🔹MS Excel: The primary tool used for data analysis and report creation.
-
-🔹Pivot Tables: Used for summarizing, analyzing, exploring, and presenting data.
-
-🔹Power Query: Utilized for data connection and transformation.
-
-🔹PowerPivot: Enhanced data analysis and model creation.
-
-🔹Data Modeling using DAX Formulas: Implemented for creating complex data models and calculations.
-
-# **Fiscal Year Definition**
-
-AtliQ Technologies' fiscal year starts in September and ends in August.
-
-# **Key Highlights**
-
-Hands-on experience with real-world data from AtliQ Technologies.
-Detailed and actionable insights through meticulously crafted reports.
-Utilization of advanced Excel functionalities to meet business analytics needs.
+### In summary, the Excel dashboard provides actionable visibility into sales performance by customer, product, and region, enabling AtliQ Hardware to prioritize retention, optimize product portfolios, and strengthen regional strategies for sustainable growth
